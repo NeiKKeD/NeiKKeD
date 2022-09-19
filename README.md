@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeiKKeD
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python/Java/CSS/HTML
+- 🌱 I’m currently working on personal projects
 - //💞️ I’m looking to collaborate on 
 - //📫 How to reach me ...
 
